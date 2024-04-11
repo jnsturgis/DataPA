@@ -32,11 +32,11 @@ objectives.
 This first section will examine:
 1. What makes a good, bad or great figure or graph. (Theory and examples)
 2. How to manipulate data from tables and files to re-organize it for analysis
-and presentation (Data wrangling in python)
+  and presentation (Data wrangling in python)
 3. Practice producing different types of graphs and with quantitative elements.
 4. Integrating multiple elements into figures
 5. Exercise produce a publication quality multi-element figure from the relevant
-datasets.
+  datasets.
 
 ## Numerical data analysis and modeling
 This section will examine:
@@ -44,9 +44,10 @@ This section will examine:
 2. Linear regression analysis and homoscedacity, linear trends and
 linearizations.
 3. Non-linear regression compared to linearization and predicting model
-parameters by regression. Parameter correlations, regression robustness. F test
-for model comparison.
-4. Spectrum analysis and component contributions.
+  parameters by regression. Parameter correlations, regression robustness. F test
+  for model comparison.
+4. Spectrum analysis and component contributions and global analysis of
+  multidimensional data.
 5. Exercise to analyse a multicomponent kinetic trace and produce a convincing
 figure.
 
