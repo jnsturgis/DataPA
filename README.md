@@ -17,6 +17,7 @@ designed in an interactive jupyter notebook environment.
 The teaching methods will essentially be based on the learning by doing paradigm
 with a series of exercises, giving variable amounts of guidance, and restitution
 sessions where the results will be discussed and choices analyzed.
+These activities will be organized through jupyter notebooks.
 Evaluation will be based on project/exercise results.
 After an initial introduction explaining the organization of the course, the
 expectations and timetable there will be three sections to the teaching and
