@@ -1,5 +1,7 @@
 # Jupyter notebook stuff
 .ipynb_checkpoints
 
-# ? nbgrader
+# ? n bgrader
 .virtual_documents
+
+.mypy_cache

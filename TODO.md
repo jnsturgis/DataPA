@@ -5,6 +5,7 @@
   1. Structure TP 2, 3
   2. Structure exercise
   3. Analysis cooperative enzyme or global analysis.
+  Vu avec Corinne le 12/4/24 elle a des idées....
 2. Find datasets and example figures for
   1. Analysis TP 1, 2
   2. Analysis exercise.
@@ -17,3 +18,5 @@
   2. To avoid redundancy
 4. Discuss Pascal, Christophe, Emmanuel how much information to give in the
   instructions, how to efficiently grade the results.
+  1. Mail Pascal 12/4/24 OK
+  2. JP peux me montrer ses notebook pour Jupyter 12/4/24
